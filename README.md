@@ -132,6 +132,9 @@ TransitLK/
 │   ├── CAB1234.jpg
 │   ├── WPABC5678.jpg
 │
+├── Images/
+│   ├── car_park.jpg
+│
 ├── Videos/
 │   ├── car_video.mp4
 │
